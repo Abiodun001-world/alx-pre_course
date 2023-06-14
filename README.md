@@ -56,6 +56,4 @@ Contributions to the ALX Pre-Course project are not accepted as it represents a 
 
 ## License
 
-This project is licensed
-
- under the [MIT License](LICENSE). Feel free to use and modify the code as needed.
+This project is licensed under the [MIT License](LICENSE). Feel free to use and modify the code as needed.
